@@ -1,30 +1,12 @@
-<h1 align="center">👋 Hey, I'm Siddharth!</h1>
-<p align="center"><em align="center">Solving complex problems by building scalable, reliable software with real-world impact</em></p>
+<h1 align="center">🗲 Hey, I'm Siddharth!</h1>
+<p align="center"><em align="center">Building scalable, reliable distributed systems and cloud-native infrastructure with real-world impact.</em></p>
 
-## 🚀 On the Horizon  
-🎓 B.S. Computer Science @ UC Irvine  
-🔭 Exploring Software & Site Reliability Engineering, Cloud Infrastructure, and AI/Machine Learning  
-📚 Diving deeper into system tooling, reliability engineering, and scalable architectures
+## 🌎︎ About Me
+B.S. Computer Science @ UC Irvine  
+Software Engineering Intern @ **Apple**, Production Engineering Fellow @ **Meta / MLH**  
+Focus: Systems Infra Software, Distributed Systems, Site Reliability Engineering, Cloud Architecture, and AI Tooling
 
-## ♞ Side Quests  
-⚡ Bullet chess fanatic - always up for a quick match  
-🔍 Deep dives into geography, scientific mysteries, and internet curiosities  
-✈️ Travel enthusiast, exploring new places and landmarks all over the world  
-
-## 🔗 Contact Me  
-[Email](mailto:sidsun@uci.edu) | [LinkedIn](https://www.linkedin.com/in/siddharthsundar/)
-
-<!--
-**sidsun1/sidsun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ♘ Side Quests  
+Tilting at bullet chess  
+25 states down, 25 to go (by age 25)  
+Figuring out what to cook next
